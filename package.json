@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "aoi.js": "^6.8.5",
+    "node": "^22.6.0"
+  },
+  "name": "aoijs-6.8.5-bot",
+  "version": "6.8.5",
+  "description": "AoiJS Bot 6.8.5 sürümüyle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/efebey-js/aoijs-6.8.5-bot.git"
+  },
+  "author": "efebey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://discord.com/channels/@me/1265672935826395176"
+  },
+  "homepage": "https://github.com/efebey-js/aoijs-6.8.5-bot#readme"
+}
